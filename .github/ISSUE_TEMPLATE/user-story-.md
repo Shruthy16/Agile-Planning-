@@ -7,25 +7,25 @@ assignees: ''
 
 ---
 
-1.	1
-2.	2
-3.	3
-4.	4
-5.	5
-6.	6
-7.	7
-8.	8
-9.	9
-10.	10
-11.	11
-12.	12
-13.	13
-14.	14
-xv.	 **As a** [role]  
-xvi.	 **I need** [function]  
-xvii.	 **So that** [benefit]  
-xviii.	   
-xix.	 ### Details and Assumptions
+  1
+  2
+  3
+	4
+	5
+  6
+  7
+  8
+  9
+  10
+  11
+  12
+  13
+  14
+  **As a** [role]  
+  **I need** [function]  
+  **So that** [benefit]  
+       
+ ### Details and Assumptions
 xx.	 * [document what you know]
 xxi.	   
 xxii.	 ### Acceptance Criteria  
